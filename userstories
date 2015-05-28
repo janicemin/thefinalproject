@@ -1,0 +1,12 @@
+User can register and sign in/logout
+
+User can either "shake" a magic 8 ball to get a randomly generated set of activities he/she could do rather than call their ex OR put in their location and see what activities there are in the area (would this be AJAX/API call from, say, like USA Today for events in the area?)
+
+User can chat with their list of trusted buddies. 
+
+User can add, delete or modify their list of buddies. 
+
+User can indicate on the very first page/log-in page if they are sober or not, which will immediately take them to the main page if yes or to a page that will simply say "DON'T EVEN THINK ABOUT IT DUDE!" which after clicking, you can go to the main page. 
+
+User can easily see from the countdown clock how many days since they registered and remained "call free"
+
